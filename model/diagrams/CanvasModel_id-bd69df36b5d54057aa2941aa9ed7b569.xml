@@ -1,14 +1,14 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="[old] Модель Остервальдера"
-    id="id-7d96cd72da694b9ab8df8f49c36710ee"
+    name="Модель Остервальдера AS IS"
+    id="id-bd69df36b5d54057aa2941aa9ed7b569"
     documentation="The Business Model Canvas is a strategic management and entrepreneurial tool. It allows you to describe, design, challenge, invent, and pivot your business model. &#xD;&#xA;&#xD;&#xA;For more information visit http://www.businessmodelgeneration.com &#xD;&#xA;&#xD;&#xA;This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/"
     hintTitle="Business Model Canvas"
     hintContent="The Business Model Canvas is a strategic management and entrepreneurial tool. It allows you to describe, design, challenge, invent, and pivot your business model.&#xA;&#xA;&lt;p>For more information visit &lt;a href=&quot;http://www.businessmodelgeneration.com&quot; a> http://www.businessmodelgeneration.com&lt;/a> &lt;/p>&#xA;&#xA;This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. To view a copy of this license, visit &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; a> http://creativecommons.org/licenses/by-sa/3.0/ &lt;/a>">
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-a9b3037da77245e4af99f71fc032b3a9"
+      id="id-47b30c0d6dcb4060a3cf960198cf203c"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd0AlSEeGhO-CobgCrfw.png"
@@ -24,73 +24,47 @@
         height="577"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-6eead9a8f2e04803b45194426e54d812"
-        fillColor="#ffff95"
-        content="Логистическая компания &quot;ООО Дейкстра&quot;"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="36"
-          y="48"
-          width="157"
-          height="73"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-b8915dd032f14e2e970d7f6d22dbbd8c"
+        id="id-297cbef496ec4c458311e0f76b94ebb4"
         fillColor="#ffff95"
         content="Оператор связи &quot;МТС&quot;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="128"
-          y="144"
+          x="120"
+          y="72"
           width="92"
           height="75"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-1b3ca486cbcc421fa3f6a5ccb1166131"
+        id="id-c62b976214344ab09355138c3544688a"
         fillColor="#ffff95"
         content="Юридическое агенство &quot;Бюро Сола Гудмана&quot;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="72"
-          y="348"
+          x="64"
+          y="276"
           width="121"
           height="97"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-e9c73949d45a44d8955cda789f227818"
+        id="id-4440f6d233124a25bfcfc60860b44d35"
         fillColor="#ffff95"
         content="Банк &quot;Сбербанк&quot;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="24"
-          y="264"
-          width="130"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-1aad5ff321214522b812f572fd78aa0f"
-        fillColor="#ffff95"
-        content="Рекламное агенство &quot;Студия 9&quot;"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="24"
-          y="468"
+          x="16"
+          y="192"
           width="130"
           height="63"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-df53199b3902478492d4215c07008a3d"
+      id="id-1322a36755e943baa6594b3f34edac30"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd0QlSEeGhO-CobgCrfw.png"
@@ -106,86 +80,73 @@
         height="289"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-476ad51addc24537af9e08b1e3387ebc"
+        id="id-60527eca954f45e0af74026941da52d7"
         fillColor="#ffff95"
-        content="Прием и доставка оптравлений"
+        content="Прием звонков или оффлайн обращений клиентов"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="137"
-          y="48"
-          width="80"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-368c33214ab9416d834c962ede8cddde"
-        fillColor="#ffff95"
-        content="Поддержание ИТ-инфраструктуры"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="96"
-          y="204"
+          x="11"
+          y="36"
           width="121"
+          height="61"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-d9eb75efe9d64e0491ada0ea6f747796"
+        fillColor="#ffff95"
+        content="Прием и доставка отправлений только по Перми"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="197"
+          width="151"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-4e8773fe41a6469e89fa675efcdbfba0"
+        id="id-74da351c9e0646e49f1d1983d2c4c21c"
         fillColor="#ffff95"
-        content="Планирование маршрутов доставки"
+        content="Сортировка отправлений"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="132"
-          width="100"
+          x="24"
+          y="108"
+          width="96"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-c28ca14f9e354f1e81b62707043c5573"
+        id="id-a6aa5da9dad043f893cce42871defe4f"
         fillColor="#ffff95"
-        content="Ведение бух учета"
+        content="Ведение бух. учета на бумаге&#xD;&#xA;"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="204"
+          x="144"
+          y="35"
           width="75"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-163357db1e5941a9a83a314d3c070e30"
+        id="id-e3e6d828f364487aae42195e24466800"
         fillColor="#ffff95"
         content="Сортировка отправлений"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="132"
-          y="132"
-          width="85"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-bc42528f547246f89f555152d1563891"
-        fillColor="#ffff95"
-        content="Прием звонков от клиентов"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="24"
-          y="36"
-          width="96"
-          height="63"/>
+          y="108"
+          width="87"
+          height="73"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-4ce6857c36254ff9a586a1817a3a8b0d"
+      id="id-7da1e25a9bbf4afc9d76eb09801fb7c1"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd0glSEeGhO-CobgCrfw.png"
@@ -201,73 +162,60 @@
         height="289"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-55f47f09bd5c4e25bc10bcc36f301f68"
+        id="id-ec2e11b76f304c2197d7ba22732cd388"
         fillColor="#ffff95"
         content="Сотрудники компании"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="24"
-          y="48"
-          width="75"
+          x="25"
+          y="36"
+          width="132"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-f286b63dfba240adafdfe7ff8be1cc9d"
-        fillColor="#ffff95"
-        content="Вычислительные машины"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="108"
-          y="120"
-          width="109"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-a9a4b60dbd3945598d9b0644cc6e5fa3"
-        fillColor="#ffff95"
-        content="Автопарк для курьеров"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="24"
-          y="146"
-          width="75"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-6f683333bf424252a3dbc0fa7442f0c6"
+        id="id-06c1f1fe35a74362b6afbc8323338dfe"
         fillColor="#ffff95"
         content="Бюджет компании"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="134"
-          y="48"
-          width="75"
+          x="12"
+          y="192"
+          width="85"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-ee0703db60d440f1a465872df7d5ebd3"
+        id="id-5e6f487680154d84a11e97ec2d517bb7"
         fillColor="#ffff95"
         content="Склад и складское оборудование"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="108"
-          y="208"
-          width="101"
+          x="25"
+          y="113"
+          width="108"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-4b17aa3abfc949f88cdc431d387d5441"
+        fillColor="#ffff95"
+        content="Личные авто курьеров"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="132"
+          y="192"
+          width="85"
           height="63"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-bd8054f72daf498c817bb146c0edd461"
+      id="id-5b2606b3f7a743c1babf4a35639ee436"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd0wlSEeGhO-CobgCrfw.png"
@@ -283,60 +231,60 @@
         height="577"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-697fcc2f06fe4c9e8a0e86ebe8db9ffd"
+        id="id-721b38300424425c885a93b9a854045c"
         fillColor="#ffff95"
-        content="Передача отправлений в офисе или с курьером"
+        content="Передача и получение отправлений в офисе"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="32"
+          x="24"
           y="48"
-          width="155"
+          width="129"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-94de50cf83914a948ae2c17d3fb306b5"
+        id="id-929a33f2730e48cd86416772211d236f"
         fillColor="#ffff95"
-        content="Получение отправлений в офисе или с курьером"
+        content="Передача и получение отправлений через курьера"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="49"
+          x="30"
           y="132"
-          width="138"
+          width="153"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-f5f70661031b40b1841b1a6d16b8f126"
+        id="id-fb17826db91a4950aab239ae6e784407"
         fillColor="#ffff95"
-        content="Уточнение статуса отправления с помощью телефонного звонка / онлайн"
+        content="Уточнение статуса отправления с помощью звонка или личного обращения"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="24"
           y="228"
-          width="181"
-          height="63"/>
+          width="165"
+          height="83"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-e9107d15739b441d97bd03b8bb538ba8"
+        id="id-1d3c1440e54a47a087704feb9fca7bb3"
         fillColor="#ffff95"
-        content="Указание места передачи или получения отправлений с помощью звонка курьеру или онлайн"
+        content="Доставка в то место, которое было указано в заявке"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="32"
-          y="336"
-          width="173"
-          height="109"/>
+          x="36"
+          y="360"
+          width="142"
+          height="63"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-fe8abd9cda2a40edb0838745d4b58875"
+      id="id-010ffc0baff14c5983fb88c24559be06"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd1AlSEeGhO-CobgCrfw.png"
@@ -352,47 +300,47 @@
         height="289"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-eddef31a20574ab48b9cc961dfead40c"
+        id="id-fd633e40a7ad435694e2cc2a6e30b1a7"
         fillColor="#ffff95"
         content="Обслуживание клиента в офисе"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="60"
+          x="12"
           y="48"
-          width="128"
+          width="112"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-fb78066b463441e5af09b35793f1acfc"
+        id="id-4595ebc5542f44e596eaf3717297f441"
         fillColor="#ffff95"
-        content="Обслуживание клиента по месту его нахождения"
+        content="Обслуживание клиента по телефону"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="29"
-          y="216"
-          width="165"
+          x="96"
+          y="120"
+          width="113"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-f6c693757d5f4faea5b6026d7e7047e7"
+        id="id-21873cc391ec4abca40f68d315d122a4"
         fillColor="#ffff95"
-        content="Обслуживание клиента онлайн / по телефону"
+        content="Обслуживание клиента по месту получения отправления"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="60"
-          y="114"
-          width="104"
-          height="88"/>
+          x="24"
+          y="204"
+          width="181"
+          height="63"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-3db0c39f0b1f4ddaa81a09ee4bcf6fe3"
+      id="id-dd3fbcbe61b14e04bf78fdf4173556c2"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd1QlSEeGhO-CobgCrfw.png"
@@ -408,60 +356,34 @@
         height="289"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-e9630094145f4ae8a9f6228d2e0553f2"
+        id="id-c453e91b568a4431a408b1aac64b14e6"
         fillColor="#ffff95"
-        content="Собственный офис"
+        content="Офис филиала в Перми"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="117"
-          y="120"
-          width="92"
+          x="48"
+          y="83"
+          width="122"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-e0d207f386f042a382a84dba57d65ffd"
+        id="id-3da56c75588141f7a513fc0ca88b0bb8"
         fillColor="#ffff95"
-        content="Сипаеицы в соц. сетях, на онлайн-картах"
+        content="Связь по мобильному телефону"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="152"
-          width="87"
-          height="89"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-99a30a20763b4db99c4358c5aa4a436b"
-        fillColor="#ffff95"
-        content="Связь с клиентом по телефону"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="24"
-          y="45"
-          width="114"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-94476ae7247d415aa5ee9a07d92e1a6b"
-        fillColor="#ffff95"
-        content="Веб-сайт компании"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="125"
-          y="214"
-          width="75"
+          x="44"
+          y="168"
+          width="130"
           height="63"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-0d7b189f532b4bb6a0ae6179c26a40dd"
+      id="id-2c60bdbe02f94a5e8a9571dad4632e94"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd1glSEeGhO-CobgCrfw.png"
@@ -477,34 +399,34 @@
         height="577"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-73773bc9e2d349e991e18541b4514039"
+        id="id-6f816b265d674650943d74329d3a37d7"
         fillColor="#ffff95"
         content="Физические лица, которые желают воспользоваться услугами компании"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="41"
-          y="72"
+          x="39"
+          y="96"
           width="163"
           height="135"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-7795d2ba7395469684266f65ea9877d7"
+        id="id-1c3ce99d119f4698b10ea22d1dc85c84"
         fillColor="#ffff95"
         content="Юридические лица, которые желают воспользоваться услугами компании"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
           x="48"
-          y="240"
+          y="276"
           width="145"
           height="121"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-874d60e6c46741eb9dcdfd02e1990b49"
+      id="id-d5ca93774dbd44d3803ab47ba8f1dad0"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       imagePath="images/_yXqd1wlSEeGhO-CobgCrfw.png"
@@ -520,125 +442,99 @@
         height="181"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-9c251ce8b28149b0a1873ed71734f091"
-        fillColor="#ffff95"
-        content="Оплата за использование облака"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="108"
-          width="122"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-87089c0438154f4ea685d223b27eec73"
-        fillColor="#ffff95"
-        content="Комиссия банку-эквайру"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="336"
-          y="24"
-          width="75"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-f31b89ab31464d29828ecbca429b157b"
+        id="id-a6847c3de97a405087cc1864692dcd27"
         fillColor="#ffff95"
         content="Аренда офиса"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="245"
+          x="113"
           y="24"
           width="75"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-3c2d79c552ca47e48aeff71551b5a2ee"
+        id="id-5913ca1a9b664352b5fadf179ef97943"
         fillColor="#ffff95"
-        content="Оплата юридических услуг и консультаций"
+        content="Оплата услуг связи"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="24"
-          width="122"
+          x="24"
+          y="108"
+          width="75"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-eb418e89018b4f819bda1d7178f1936b"
+        id="id-3d5ec440c8f849dcad543a7adbbc8b8e"
+        fillColor="#ffff95"
+        content="Налоговые платежи"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="24"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-34d45e2d03f64b82abbcf4f8e0380565"
+        fillColor="#ffff95"
+        content="Комиссия банку-эквайру"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="216"
+          y="24"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="id-8f39551e37c44a7fa910373aa75d9d7a"
         fillColor="#ffff95"
         content="Заработная плата сотрудников"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="245"
+          x="125"
           y="108"
           width="104"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-01066a581ea4481583fa96d9d8b1c877"
-        fillColor="#ffff95"
-        content="Финансирование рекламной компании"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="384"
-          y="108"
-          width="123"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-d8d3f48c6ac244aab52b8b4892dd4bc2"
-        fillColor="#ffff95"
-        content="Оплата услуг связи"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="156"
-          y="108"
-          width="75"
-          height="63"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-992f200147d34363a9e119bdfb678c88"
+        id="id-6b202a7d1e4c4ae8958e850d18bbf6ab"
         fillColor="#ffff95"
         content="Коммунальные платежи"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="420"
+          x="300"
           y="24"
           width="99"
           height="63"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-c30f70e1a002446e98f068d8488edb48"
+        id="id-1e8bac5c23784767acf333ee53dc5abb"
         fillColor="#ffff95"
-        content="Налоговые платежи"
+        content="Оплата юридических услуг и консультаций"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="156"
-          y="24"
-          width="75"
+          x="264"
+          y="108"
+          width="122"
           height="63"/>
     </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-a65f17e37d6a4303a78e7525db580928"
+      id="id-808198b1f6784fbb9764ed7470f4da76"
       name="Block"
       font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
@@ -655,13 +551,13 @@
         height="181"/>
     <children
         xsi:type="canvas:CanvasModelSticky"
-        id="id-2f395cbc020744369107eeecc11742da"
+        id="id-41b45c79e3d34a558e178f524df4702e"
         fillColor="#ffff95"
         content="Выручка за услуги доставки отправлений физическими или юридическими лицами"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="48"
+          x="72"
           y="48"
           width="244"
           height="97"/>
@@ -669,7 +565,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-7057cfc4e7394a0e86b042434ef50f7e"
+      id="id-977b32c074724bdea4cf9ddbd4daf7c1"
       font="1|Arial|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Arial"
       textAlignment="1"
       fillColor="#fdf8b9"
