@@ -130,19 +130,6 @@
           width="75"
           height="63"/>
     </children>
-    <children
-        xsi:type="canvas:CanvasModelSticky"
-        id="id-e3e6d828f364487aae42195e24466800"
-        fillColor="#ffff95"
-        content="Сортировка отправлений"
-        borderColor="#C0C0C0"
-        textPosition="1">
-      <bounds
-          x="132"
-          y="108"
-          width="87"
-          height="73"/>
-    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
