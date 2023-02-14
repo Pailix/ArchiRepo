@@ -36,25 +36,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-44ac1362b72248289bb0c644492f6df6"
-        source="id-82188b0b90cb4db18fbdc3f34f3b06ec"
-        target="id-05d7e4458e934d079b29782b06e53395">
-      <bendpoints
-          startX="43"
-          startY="79"
-          endX="-119"
-          endY="-51"/>
-      <bendpoints
-          startX="163"
-          startY="79"
-          endX="1"
-          endY="-51"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-303f5f001b5d424eaee215710a890e36.xml#id-303f5f001b5d424eaee215710a890e36"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-af4d63eb7f3849ac8d41fc22264fb02c"
         source="id-82188b0b90cb4db18fbdc3f34f3b06ec"
         target="id-52c631d8284043159821ae5c15efda80">
@@ -70,6 +51,25 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-e3ca4d0ef90542b991356751b55de591.xml#id-e3ca4d0ef90542b991356751b55de591"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3e3f4ec1bbc2430d8cc28cad3220d6bb"
+        source="id-82188b0b90cb4db18fbdc3f34f3b06ec"
+        target="id-82d123f1ba6c4b5aae4822037d578721">
+      <bendpoints
+          startX="55"
+          startY="67"
+          endX="-219"
+          endY="-51"/>
+      <bendpoints
+          startX="271"
+          startY="67"
+          endX="-3"
+          endY="-51"/>
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-927af6ff316d41a58e5aed9d628f1bcb.xml#id-927af6ff316d41a58e5aed9d628f1bcb"/>
     </sourceConnections>
     <bounds
         x="221"
@@ -180,19 +180,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-05d7e4458e934d079b29782b06e53395"
-      targetConnections="id-44ac1362b72248289bb0c644492f6df6">
-    <bounds
-        x="383"
-        y="264"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-86a17bc99f8944948e3fc10f0e27ae0e.xml#id-86a17bc99f8944948e3fc10f0e27ae0e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e401bc0953aa47598d9c0acbbcaa8986"
       targetConnections="id-f98873e6929c4d4aac21ccf62dfc7935">
     <bounds
@@ -251,5 +238,40 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-dfb1887435a74e52b9dd292b8025288a.xml#id-dfb1887435a74e52b9dd292b8025288a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-82d123f1ba6c4b5aae4822037d578721"
+      targetConnections="id-3e3f4ec1bbc2430d8cc28cad3220d6bb">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-cc00695b9b594c9f8ddeab124e9219d7"
+        source="id-82d123f1ba6c4b5aae4822037d578721"
+        target="id-e3c7ba22d6d64f0ab282e9fa7e19ca9d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-c987d9ecdf7f4446aad2961640cda891.xml#id-c987d9ecdf7f4446aad2961640cda891"/>
+    </sourceConnections>
+    <bounds
+        x="383"
+        y="264"
+        width="174"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-77c86daf3a9548d1bae62002957147dc.xml#id-77c86daf3a9548d1bae62002957147dc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e3c7ba22d6d64f0ab282e9fa7e19ca9d"
+      targetConnections="id-cc00695b9b594c9f8ddeab124e9219d7">
+    <bounds
+        x="624"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-09bb1e3ec0b2467f9c48341243bc4578.xml#id-09bb1e3ec0b2467f9c48341243bc4578"/>
   </children>
 </archimate:ArchimateDiagramModel>
